@@ -1,0 +1,25 @@
+{
+	"keys": {
+
+	},
+	"build": [
+		{
+			"command": "three",
+			"type": "js",
+			"files": {
+				"./src/html5": "latte_view"
+			},
+			"out": "./build/{{version}}/html5/{{name}}.js"
+		},
+		{
+			"command": "mini",
+			"type": "js",
+			"in": ["./build/{{version}}/html5/{{name}}.js"],
+			"out": ["./build/html5/{{name}}.js"]
+		}
+
+	],
+	"files_modules": {
+		
+	}
+}

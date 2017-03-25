@@ -1,0 +1,2 @@
+latte
+	inputNumber  {min:1,max:10} "number"

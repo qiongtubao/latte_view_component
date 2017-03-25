@@ -1,0 +1,8 @@
+{
+	"paths": [ "./src/html5"],
+	"change": {
+		"buildJs": {
+			
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name":"latte_view",
+	"version":"0.0.1",
+	"description":"latte_view",
+	"keywords":["latte", "view"],
+	"author":"qiongtubao",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/qiongtubao/latte_view_component.git"
+	},
+	"dependencies":{
+
+	}
+	
+}

@@ -1,0 +1,7 @@
+latte
+	select   "selectValue"
+		label "黄金糕"
+		label "双皮奶"
+		label "蚵仔煎"
+		label "龙须面"
+		label "北京烤鸭"
