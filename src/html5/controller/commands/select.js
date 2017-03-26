@@ -1,5 +1,8 @@
 var Command = {};
 (function() {
+	/**
+		还没修改成双向绑定
+	*/
 	this.before = function(data, dom, controller) {
 		var numAttr = dom.latte("select");
 		if(numAttr) {
